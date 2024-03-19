@@ -1,6 +1,12 @@
 
 <h1>Welcome to My Dynamic Portfolio Website!</h1>
 
+<h2>Preview</h2>
+![portfolio](https://github.com/ImMohammadHaroon/ImMohammadHaroon.github.io/assets/162042814/c780f67d-1396-4047-8a7d-7db54497c55d)
+
+
+
+
 Welcome to my vibrant and immersive portfolio website! Here, I showcase my expertise, projects, and professional journey in the ever-evolving world of web development. Crafted with passion and precision, this website offers visitors an engaging experience as they explore my work and accomplishments.
 
 ## 🚀 Features
@@ -16,7 +22,7 @@ Welcome to my vibrant and immersive portfolio website! Here, I showcase my exper
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML5, CSS3 (with Sass for enhanced styling), JavaScript (ES6+)
-- **Frameworks/Libraries:** [Any additional technologies or frameworks you used, e.g., Bootstrap, React.js, Vue.js]
+- **Frameworks/Libraries:**  Bootstrap, React.js, Vue.js
 - **Version Control:** Git, GitHub
 
 ## 🚀 Getting Started
@@ -26,7 +32,7 @@ Ready to explore my portfolio website or contribute to its growth? Follow these 
 1. **Clone this repository** to your local machine:
 
 ```bash
-git clone [https://github.com/ImMohammadHaroon/portfolio.git]
+https://github.com/ImMohammadHaroon/ImMohammadHaroon.github.io.git
 ```
 
 2. **Open the `index.html` file** in your preferred web browser to experience the website firsthand.
@@ -42,7 +48,7 @@ Your feedback is invaluable in shaping the future of this portfolio website. Whe
 
 Let's stay connected! Follow me on [LinkedIn](https://linkedin.com/in/muhammad-haroon-6575b0285) for the latest updates, industry insights, and opportunities to collaborate.
 
----
+
 
 Crafted with ❤️ by Haroon. Elevate your digital experience with my portfolio website and let's embark on a journey of innovation and collaboration together.
-```
+
